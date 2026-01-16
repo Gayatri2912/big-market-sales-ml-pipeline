@@ -47,9 +47,12 @@ Power BI Dashboard / Streamlit App
 
 ## 🌐 Streamlit App (Input Screen)
 ![Streamlit Input](assets/streamlit_appo.png)
+<img width="1905" height="631" alt="Screenshot 2026-01-16 164647" src="https://github.com/user-attachments/assets/1e2b2804-f6ad-4d05-bd70-0f9901acf7ce" />
+
 
 ## ✅ Streamlit App (Prediction Output)
 ![Streamlit Prediction](assets/streamlit_appt.png)
 
 ## 📊 Power BI Dashboard Preview
 ![Power BI Dashboard](assets/powerbi.png)
+
