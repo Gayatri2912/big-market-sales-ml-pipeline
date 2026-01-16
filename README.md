@@ -1,3 +1,5 @@
+<img width="1905" height="631" alt="Screenshot 2026-01-16 164647" src="https://github.com/user-attachments/assets/290fc29f-4deb-4e58-a370-f6a39cb0013b" />
+<img width="1907" height="707" alt="Screenshot 2026-01-16 164727" src="https://github.com/user-attachments/assets/6dc2e038-081a-4955-be36-faf72a7ba035" />
 # 🛒 Big Market Sales ML Pipeline (CSV → SQL → ML → Predictions → Dashboard)
 
 🚀 **End-to-End Automated Data + ML Pipeline** built using **Python, MySQL, XGBoost, Streamlit, and Power BI**.  
@@ -44,7 +46,8 @@ MySQL Table (sales_predictions)
       ↓
 Power BI Dashboard / Streamlit App
 
-<img width="1905" height="631" alt="Screenshot 2026-01-16 164647" src="https://github.com/user-attachments/assets/5a7c2b06-a517-4bb8-9bda-c7711a48d519" />
+
+
 
 
 
